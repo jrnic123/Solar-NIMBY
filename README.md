@@ -1,5 +1,9 @@
 # Solar-NIMBY
- 
+Code used to carry out analysis for: Nicolas, J.R., and Davidson, M.R. Quantifying the Impact of Socio-Political Factors on U.S. Utility-Scale Solar Deployment Patterns. Manuscript submitted for publication, 2026.
+
+## Abstract
+To be added once published.
+
 ## What each folder contains:
 
 - `county_box` contains the code to calculate the area for each counties in the US in both square miles and square kilometers. The shapefile is also contained in there which is got from the [US Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html).
@@ -10,5 +14,6 @@
 
 - `TechnoEcon Df Creation` `TechnoEcon Df Creation` contains the code to create the dataframe that contains the technical and economic data from the GEM Model
 
-# Large Dataset download
-[link](https://zenodo.org/records/14760494)
+## Large Dataset download
+[link](https://zenodo.org/records/15841554)
+
