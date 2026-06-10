@@ -1,5 +1,5 @@
 # Solar-NIMBY
-Code used to carry out analysis for: Nicolas, J.R., and Davidson, M.R. Quantifying the Impact of Socio-Political Factors on U.S. Utility-Scale Solar Deployment Patterns. Manuscript submitted for publication, 2026.
+Code used to carry out analysis for: Nicolas, J.R., and Davidson, M.R. _Quantifying the Impact of Socio-Political Factors on U.S. Utility-Scale Solar Deployment Patterns. Manuscript submitted for publication_, 2026.
 
 ## Abstract
 To be added once published.
@@ -14,6 +14,6 @@ To be added once published.
 
 - `TechnoEcon Df Creation` `TechnoEcon Df Creation` contains the code to create the dataframe that contains the technical and economic data from the GEM Model
 
-## Large Dataset download
+## Large dataset download
 [link](https://zenodo.org/records/15841554)
 
